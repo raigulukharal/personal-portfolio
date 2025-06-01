@@ -15,7 +15,7 @@ const Contact = () => {
     setLoading(true);
     try {
       const { data } = await axios.post(
-        'http://localhost:4000/send/mail',
+        'https://gulfam-portfolio.up.railway.app/send/mail',
         { name, email, message },
         {
           headers: { 'Content-Type': 'application/json' },
@@ -45,7 +45,7 @@ const Contact = () => {
           Your message brightens my day and makes me feel appreciated. 
           Let's connect and create something amazing together!
         </p>
-        <p className="text-xl mb-6 text-white font-bold">Let's stay in touch! Feel free to reach out via my social media.<br></br></p>
+        <p className="text-xl mb-6 text-white font-bold">Let's stay in touch! Feel free to reach out via my social media.</p>
 
         <div className="flex space-x-6 mx-10">
           <a href="https://www.linkedin.com/in/rai-gulfam-559b0a338/" target="_blank" rel="noopener noreferrer">
@@ -63,7 +63,7 @@ const Contact = () => {
       {/* RIGHT SIDE FORM */}
       <div className="w-full lg:w-1/2 bg-gray-900 p-10 flex items-center justify-center">
         <form onSubmit={sendMail} className="w-full max-w-md bg-white p-8 rounded-xl shadow-xl">
-          <h2 className="text-2xl font-bold text-center bg-gradient-to-r from-indigo-500 to-pink-500 bg-clip-text text-transparent  mb-6">Contact Form</h2>
+          <h2 className="text-2xl font-bold text-center bg-gradient-to-r from-indigo-500 to-pink-500 bg-clip-text text-transparent mb-6">Contact Form</h2>
 
           <div className="mb-4">
             <label className="block text-gray-700 font-medium mb-2">Name</label>
