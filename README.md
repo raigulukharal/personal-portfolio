@@ -45,7 +45,7 @@ Welcome to my fully responsive and modern portfolio website built using **React.
 
 - **Frontend:** React.js, Tailwind CSS
 - **Design:** Fully Custom with responsive layouts
-- **Deployment:** Netlify
+- **Deployment:** Netlify and railways
 
 ---
 
