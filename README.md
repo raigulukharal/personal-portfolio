@@ -25,17 +25,17 @@ Welcome to my fully responsive and modern portfolio website built using **React.
 ### 🔐 Home Page  
 ![Home](https://raw.githubusercontent.com/raigulukharal/personal-portfolio/main/screenshots/home.png)
 
-### 🔑 Login Page  
+### 🔑 About Page  
 ![About](https://raw.githubusercontent.com/raigulukharal/personal-portfolio/main/screenshots/about.png)
 
-### 🎬 Home Page  
+### 🎬 Skill Page  
 ![Skills](https://raw.githubusercontent.com/raigulukharal/personal-portfolio/main/screenshots/skills.png)
 
 
-### 🎬 Home Page  
+### 🎬 Contact Page  
 ![Contact](https://raw.githubusercontent.com/raigulukharal/personal-portfolio/main/screenshots/contact.png)
 
-### 👁️ View Page  
+### 👁️ Project Page  
 ![Project](https://raw.githubusercontent.com/raigulukharal/personal-portfolio/main/screenshots/project.png)
 ---
 
